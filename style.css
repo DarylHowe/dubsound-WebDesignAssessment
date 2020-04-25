@@ -902,6 +902,10 @@ width: 48.5%;
 
 
 /* THE JUICE */
+.thejuice{
+overflow: auto;
+}
+
 
 .article img{
 border-bottom: 1px solid grey;
@@ -923,6 +927,7 @@ margin-top: 0px;
 margin-top: 20px;
 height: 40%;
 }
+
 
 .gap{
 height: 10px;
