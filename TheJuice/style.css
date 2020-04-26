@@ -590,6 +590,10 @@ display: none;
 /* ARTICLES  */
 @media only screen and (max-width: 820px){
 
+.articletemplate{
+height: 330px;
+}
+
 .articleinner{
 border: none;
 }
@@ -617,10 +621,6 @@ margin-bottom: 20px;
 }
 
 }
-
-
-
-
 
 /* FOOTER, SPACERS */
 @media only screen and (max-width: 750px){
