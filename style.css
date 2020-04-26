@@ -177,7 +177,6 @@ text-align: center;
 
 .banner-message ul li{
 padding: 10px;
-
 }
 
 .banner-message li a { 
@@ -1117,7 +1116,6 @@ display: none;
 
 }
 
-
 /* LOGO HEADER, YOUTUBE ICON, SOCIAL BOX HEADER, SOCIAL BOX FOOTER */
 @media only screen and (max-width: 680px){
 .logobox{
@@ -1142,7 +1140,6 @@ display: none;
 }
 
 }
-
 
 /* LATEST FEATURE, UPCOMMING EVENTS, SAMPLE PACKS */
 @media only screen and (max-width: 680px){
